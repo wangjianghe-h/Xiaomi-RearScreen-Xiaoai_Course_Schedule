@@ -1,4 +1,6 @@
 {
+  "type": "notification",
+  "minVersion": 251,
   "name": "背屏课程表Pro",
   "business_setup": {
     "id": "course_schedule",
